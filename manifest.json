@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "description": "Radiation Dose Tracker 2 is a scientific web application for recording and tracking radiation dose values.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Radiation Dose Tracker 2",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Dose Tracker 2",
+  "start_url": "/",
+  "theme_color": "#10243a",
+  "id": "/radiation-dose-tracker-2"
+}
